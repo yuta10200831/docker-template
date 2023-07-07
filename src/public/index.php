@@ -1,5 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST';
 
-//【サイドバーの開閉】
-// cmd + B
+//「エディターの分割」のショートカットキー
+//cmd+\
